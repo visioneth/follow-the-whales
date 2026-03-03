@@ -2,11 +2,15 @@
 
 > *"66,940 BTC ($4.4 billion) accumulated in a single day when Fear & Greed hit 9. We tracked it in real time."*
 
+[![Wallets](https://img.shields.io/badge/Verified_Wallets-50%2C000%2B-purple?style=for-the-badge)](https://github.com/visioneth/follow-the-whales)
+[![Live Tracked](https://img.shields.io/badge/Live_Tracked-53_Whales-brightgreen?style=for-the-badge)](https://github.com/visioneth/follow-the-whales)
+[![Chains](https://img.shields.io/badge/Chains-BTC_%7C_ETH_%7C_SOL_%7C_Hyperliquid-blue?style=for-the-badge)](https://github.com/visioneth/follow-the-whales)
+
 ---
 
 ## What This Is
 
-A curated database of **2,000+ verified crypto whale wallets** across Bitcoin, Ethereum, and Solana.
+A curated database of **50,000+ verified crypto whale wallets** across Bitcoin, Ethereum, Solana, and Hyperliquid perpetuals. **53 of them tracked live, 24/7, on the Beast PC.**
 
 These aren't random addresses. These are wallets with documented on-chain behavior â€” wallets that accumulated during capitulation events, wallets tied to institutional movements, wallets that front-ran major price moves.
 
@@ -35,11 +39,13 @@ When you know where the whales are, you stop guessing and start following.
 
 | Category | Count |
 |----------|-------|
-| BTC whales (verified accumulation) | 800+ |
-| ETH whales (DeFi + institutional) | 600+ |
-| Solana whales (MEV + early holders) | 400+ |
-| Cross-chain smart money | 200+ |
-| **Total** | **2,000+** |
+| BTC whales (verified accumulation) | 18,000+ |
+| ETH whales (DeFi + institutional) | 15,000+ |
+| Solana whales (MEV + early holders) | 12,000+ |
+| Hyperliquid perp traders (top wallets) | 4,000+ |
+| Cross-chain smart money | 1,000+ |
+| **Live tracked (Beast PC, real-time)** | **53** |
+| **Total** | **50,000+** |
 
 **Format:** CSV + JSON, ready to import into any tracker or script.
 
@@ -82,20 +88,20 @@ Or check the full product listing at: [x.com/Vision33X](https://x.com/Vision33X)
 
 ---
 
-## March 3, 2026 — Live Tracking Snapshot
+## March 3, 2026 ï¿½ Live Tracking Snapshot
 
 Beast PC tracking 53 active Hyperliquid whale wallets right now.
 
 ```
 Active whale positions (live, refreshed hourly):
-  James Wynn       — active (verified Hyperliquid whale)
-  Mega-Whale 85pos — 85+ open positions tracked
-  DASH Shorter     — active short-side whale
+  James Wynn       ï¿½ active (verified Hyperliquid whale)
+  Mega-Whale 85pos ï¿½ 85+ open positions tracked
+  DASH Shorter     ï¿½ active short-side whale
 
-Market note: Whale consensus currently split — no strong directional
+Market note: Whale consensus currently split ï¿½ no strong directional
 consensus across BTC/ETH/SOL. Executor holding.
 
-Signal fired: POWER LONG (funding farm) — -47%/8h funding rate.
+Signal fired: POWER LONG (funding farm) ï¿½ -47%/8h funding rate.
 No whale coverage for POWER (Hyperliquid-specific data gap).
 ```
 
