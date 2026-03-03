@@ -77,7 +77,8 @@ Or check the full product listing at: [x.com/Vision33X](https://x.com/Vision33X)
 
 ## Related
 
-- [crypto-kill-zones](https://github.com/visioneth/crypto-kill-zones) — 98.4% SHORT win rate at 20:00 UTC
+- **[AlphaScope](https://github.com/visioneth/AlphaScope)** — free live dashboard showing whale consensus + kill zone countdown + funding heatmap. The 53 whale positions feed directly into it.
+- [crypto-kill-zones](https://github.com/visioneth/crypto-kill-zones) — 98.4% SHORT win rate at 20:00 UTC, 65 real trades
 - [rsi-extreme-edge](https://github.com/visioneth/rsi-extreme-edge) — RSI reversal data across 138 real trades
 - [Vision33X on BloFin](https://partner.blofin.com/d/Vision33X) — copy my live trades
 
